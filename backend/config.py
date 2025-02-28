@@ -1,8 +1,3 @@
-"""
-config.py
-Global configuration for model path and logging file.
-"""
-
 import os
 
 MODEL_PATH = os.environ.get("MODEL_PATH", "models/llama-3-8B.Q4_K_M.gguf")
