@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+llama-cpp-python
+
+streamlit
+requests
+pandas
+matplotlib
